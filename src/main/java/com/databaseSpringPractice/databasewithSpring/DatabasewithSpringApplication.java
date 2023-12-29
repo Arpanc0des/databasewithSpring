@@ -10,5 +10,4 @@ public class DatabasewithSpringApplication {
 
 		SpringApplication.run(DatabasewithSpringApplication.class, args);
 	}
-
 }
